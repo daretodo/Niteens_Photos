@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(#05f7d3 0%, #05f78a 100%);
+    font-family: 'Chau Philomene One', sans-serif;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+
